@@ -1,0 +1,21 @@
+{
+  "name": "@elad1010/netproto",
+  "version": "1.0.0",
+  "description": "A package for generating network protocols defined classes used for enconding and decoding packets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "network",
+    "net",
+    "proto",
+    "protocol",
+    "proto-js",
+    "protocol-js",
+    "packet",
+    "packet-build"
+  ],
+  "author": "ELAD1010",
+  "license": "ISC"
+}
